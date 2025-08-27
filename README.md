@@ -136,12 +136,12 @@ pipe referral show
 
 ## Role Requirement👇
 
-<img width="1875" height="330" alt="image" src="https://github.com/user-attachments/assets/f0483b80-811b-4b0f-a772-1e6db74b0bbd" />
+<img width="1875" height="330" alt="image" src="https://github.com/user-attachments/assets/4e0d0e20-5e3a-42b3-9982-ebeede20a025" />
 
 
-### Upload Your File from: [Upload a File](https://github.com/Vaibhav994/PipeNetwork?tab=readme-ov-file#upload-a-file)
+### Upload Your File from: [Upload a File](https://github.com/Vaibhav994/PipeNetwork#upload-a-file)
 
-### Get public link of your upload files from: [Create Public Link](https://github.com/Vaibhav994/PipeNetwork?tab=readme-ov-file#create-public-link)
+### Get public link of your upload files from: [Create Public Link](https://github.com/Vaibhav994/PipeNetwork#create-public-link)
 
 
 >Join Discord and post in [Pipe-Community-Social](https://discord.com/channels/1276592413049356391/1392272776278184079) to get your Firestarter Role.
