@@ -141,7 +141,7 @@ pipe referral show
 
 ### Upload Your File from: [Upload a File](#upload-a-file)
 
-### Get public link of your upload files from: [Create Public Link](https://github.com/Vaibhav994/PipeNetwork#create-public-link)
+### Get public link of your upload files from: [Create Public Link](#create-public-link)
 
 
 >Join Discord and post in [Pipe-Community-Social](https://discord.com/channels/1276592413049356391/1392272776278184079) to get your Firestarter Role.
