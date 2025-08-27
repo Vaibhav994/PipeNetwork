@@ -139,7 +139,7 @@ pipe referral show
 <img width="1875" height="330" alt="image" src="https://github.com/user-attachments/assets/4e0d0e20-5e3a-42b3-9982-ebeede20a025" />
 
 
-### Upload Your File from: [Upload a File](https://github.com/Vaibhav994/PipeNetwork#upload-a-file)
+### Upload Your File from: [Upload a File](#upload-a-file)
 
 ### Get public link of your upload files from: [Create Public Link](https://github.com/Vaibhav994/PipeNetwork#create-public-link)
 
